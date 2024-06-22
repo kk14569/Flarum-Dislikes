@@ -1,6 +1,6 @@
 {
-    "name": "nodeloc/dislikes",
-    "description": "Allow users to dislike posts.",
+    "name": "kk14569/dislikes",
+    "description": "Forked from nodeloc/dislikes, allow users to dislike posts.",
     "type": "flarum-extension",
     "keywords": [
         "discussion"
@@ -8,14 +8,14 @@
     "license": "MIT",
     "support": {
         "issues": "https://github.com/flarum/framework/issues",
-        "source": "https://github.com/nodeloc/Dislikes",
-        "forum": "https://discuss.flarum.org"
+        "source": "https://github.com/kk14569/Flarum-Dislikes",
+        "forum": "https://github.com/kk14569/Flarum-Dislikes"
     },
-    "homepage": "https://www.nodeloc.com",
+    "homepage": "https://github.com/kk14569/Flarum-Dislikes",
     "funding": [
         {
             "type": "website",
-            "url": "https://www.nodeloc.com"
+            "url": "https://github.com/kk14569/Flarum-Dislikes"
         }
     ],
     "require": {
