@@ -1,4 +1,4 @@
-## Dislikes 插件，从官方的likes改过来的
+## Fork from nodeloc/dislikes
 
-### 安装 
-```composer require nodeloc/dislikes```
+### Install
+```composer require kk14569/dislikes```
